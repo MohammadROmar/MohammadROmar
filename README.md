@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm MohammadROmar 👋
 
-<!--
-**MohammadROmar/MohammadROmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fifth (final) year Information Technology Engineering student specializing in Software Engineering.  
+I’m passionate about building modern web applications and exploring new technologies to solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** Next.js, React.js, Tailwind CSS
+- **Languages:** TypeScript, JavaScript
+- **3D & Visuals:** Three.js
+- **State Management:** Redux Toolkit, React Query
+- **UI/UX Enhancements:** Framer Motion, shadcn, React Router, and more
+
+I have experience working with a wide variety of third-party libraries and tools, always striving to deliver clean, efficient, and scalable code.
+
+## 🌟 Featured Projects
+
+Check out some of my top repositories:
+- [weatherly](https://github.com/MohammadROmar/weatherly)
+- [ouzoun](https://github.com/MohammadROmar/ouzoun)
+- [fizzi](https://github.com/MohammadROmar/fizzi)
+- [portfolio](https://github.com/MohammadROmar/portfolio)
+- [TriPlanner](https://github.com/MohammadROmar/TriPlanner)
+
+## 📫 Connect with Me
+
+- Website: [mohammad-omar.vercel.app](https://mohammad-omar.vercel.app)
+- Telegram: [t.me/MohammadROmar](https://t.me/MohammadROmar)
+- Email: mohammad.riyad.omar@gmail.com
+
+Thanks for stopping by!  
+Feel free to check out my projects, or reach out if you’d like to collaborate.
